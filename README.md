@@ -2,7 +2,7 @@
 
 Hello Everyone! :wave:
 
-My name is Rahul and I am really passionate about programming. Currently I'm a CS major at UT Austin in my second year of learning. I plan to graduate by the end of 2024.
+My name is Rahul and I am really passionate about programming. Currently I'm a CS major at UT Austin in my third year of learning. I plan to graduate by the end of 2024.
 
 Reach out to me if you want work done or want a collaboration. I'm always willing to help!
 
