@@ -10,7 +10,7 @@ Reach out to me if you want work done or want a collaboration. I'm always willin
 
 My main aspiration is to be an artificial intelligence programmer, but I have not decided which sub category I'm aiming for. I have used many different software but to summarize, here is some of the things I have done.
 
-* I have worked extensively on artificial intelligence, robotics and back end programming, and I'm proficient in Java, Python, JS, HTML, C++, C, and SQL.
+* I have worked extensively on artificial intelligence, robotics and back end programming, and I'm proficient in Java, Python, JS, HTML, C++, C, C#, and SQL.
 * Now I'm focusing on expanding my skillset in front end programming with ReactJS, NodeJS, and Flutter.
 
 That doesn't mean I won't continue with my current expertise; I'm excited to work with everyone on everything!
