@@ -27,4 +27,4 @@ Click on any of the links below to get in contact with me. You can also call my 
 
 Here is my resume on hand for any hiring managers looking for an awesome coder :sunglasses:
 
-![alt text](https://github.com/maligir/maligir/blob/main/Rahul%20Maligi_Resume_05-01-2022-1.png)
+![alt text](https://github.com/maligir/maligir/blob/main/Rahul%20Maligi_Resume_V9.png)
