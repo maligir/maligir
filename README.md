@@ -22,6 +22,7 @@ Click on any of the links below to get in contact with me. You can also call my 
 * Email: maligirahul@gmail.com
 * Phone: 972-292-0973
 * LinkedIn: https://www.linkedin.com/in/rahul-maligi/
+* Website: https://rahulmaligi.vercel.app
 
 # Resume :page_with_curl:
 
