@@ -2,7 +2,7 @@
 
 Hello Everyone! :wave:
 
-My name is Rahul and I am really passionate about programming. Currently I'm a CS major at UT Austin in my third year of learning. I plan to graduate by the end of 2024.
+My name is Rahul and I am really passionate about programming. Currently I'm a Full-Stack Developer under Amazon Ring!
 
 Reach out to me if you want work done or want a collaboration. I'm always willing to help!
 
@@ -10,8 +10,8 @@ Reach out to me if you want work done or want a collaboration. I'm always willin
 
 My main aspiration is to be an artificial intelligence programmer, but I have not decided which sub category I'm aiming for. I have used many different software but to summarize, here is some of the things I have done.
 
-* I have worked extensively on artificial intelligence, robotics and back end programming, and I'm proficient in Java, Python, JS, HTML, C++, C, C#, and SQL.
-* Now I'm focusing on expanding my skillset in front end programming with ReactJS, NodeJS, and Flutter.
+* I have worked extensively on artificial intelligence, robotics and full stack programming, and I'm proficient in Java, Python, JS, HTML, C++, C, C#, and SQL.
+* Now I'm focusing on expanding my skillset in front end programming with React, NextJS and Node.
 
 That doesn't mean I won't continue with my current expertise; I'm excited to work with everyone on everything!
 
